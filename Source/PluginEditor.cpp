@@ -166,7 +166,6 @@ ChorusFlangerAudioProcessorEditor::ChorusFlangerAudioProcessorEditor (ChorusFlan
     };
 
     mType.setSelectedItemIndex(*typeParameter);
-
 }
 
 ChorusFlangerAudioProcessorEditor::~ChorusFlangerAudioProcessorEditor()

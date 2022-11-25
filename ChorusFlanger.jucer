@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="TbEZnM" name="ChorusFlanger" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="1" jucerFormatVersion="1" pluginFormats="buildStandalone,buildVST3"
+              addUsingNamespaceToJuceHeader="1" jucerFormatVersion="1" pluginFormats="buildAAX,buildStandalone,buildVST3"
               pluginAAXCategory="32" cppLanguageStandard="17">
   <MAINGROUP id="mov9r1" name="ChorusFlanger">
     <GROUP id="{FCAA607E-157C-798B-1116-947D83E61A86}" name="Source">

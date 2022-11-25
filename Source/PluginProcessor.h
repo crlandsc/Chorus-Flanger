@@ -10,6 +10,7 @@
 
 #include <JuceHeader.h>
 
+// Ran into issues using M_PI
 //#include <include_juce_audio_formats.cpp>
 //#include <math.h>
 //#include <cmath>

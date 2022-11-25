@@ -66,7 +66,7 @@ ChorusFlangerAudioProcessor::ChorusFlangerAudioProcessor()
         0));
 
 
-    /* Initialize data to default values */
+    // Initialize data to default values
     mCircularBufferLeft.reset(nullptr); // reset smart pointers to null
     mCircularBufferRight.reset(nullptr); // reset smart pointers to null
     mCircularbufferWriteHead = 0;
